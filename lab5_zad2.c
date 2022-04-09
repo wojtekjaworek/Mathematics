@@ -18,6 +18,7 @@ int silnia(int n) { // rekurencyjnie zadana funkcja liczaca silnie z n
 
 int main() {
 
+
     int n;
     printf("Podaj liczbe do policzenia silni ( dopuszczalny zakres to [0,500] ): ");
     do{
